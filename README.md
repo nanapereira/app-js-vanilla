@@ -1,3 +1,3 @@
 # app-js-vanilla
 
-#### Projeto introção ao Javascript
+#### Projeto introção ao Javascript.
